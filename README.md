@@ -1,2 +1,3 @@
-# First_Repo
-First repository Git Lecture
+# Hello-world
+This is my first repository.
+I am looking forward to learning more.
